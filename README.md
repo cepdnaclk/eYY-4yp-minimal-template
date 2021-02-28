@@ -5,14 +5,14 @@
 This is a short desciption of the project. This section should be around 3 sentences.
 
 ## Team Members
-1. E/15/001 Student Name [[Website](http://www.ce.pdn.ac.lk/e15-batch/), [Email](e5001@ce.pdn.ac.lk)]
-2. E/15/002 Student Name [[Website](http://www.ce.pdn.ac.lk/e15-batch/), [Email](e5001@ce.pdn.ac.lk)]
-3. E/15/003 Student Name [[Website](http://www.ce.pdn.ac.lk/e15-batch/), [Email](e5001@ce.pdn.ac.lk)]
+1. E/15/001 Student Name [[Website](http://www.ce.pdn.ac.lk/e15-batch/), [Email](mailto:e5001@ce.pdn.ac.lk)]
+2. E/15/002 Student Name [[Website](http://www.ce.pdn.ac.lk/e15-batch/), [Email](mailto:e5001@ce.pdn.ac.lk)]
+3. E/15/003 Student Name [[Website](http://www.ce.pdn.ac.lk/e15-batch/), [Email](mailto:e5001@ce.pdn.ac.lk)]
 
 
 ## Supervisors
-1. Prof. Staff Name [[Website](http://www.ce.pdn.ac.lk/academic-staff/), [Email](lecturer@ce.pdn.ac.lk)]
-2. Dr. Satff Name [[Website](http://www.ce.pdn.ac.lk/academic-staff/), [Email](lecturer@ce.pdn.ac.lk)]
+1. Prof. Staff Name [[Website](http://www.ce.pdn.ac.lk/academic-staff/), [Email](mailto:lecturer@ce.pdn.ac.lk)]
+2. Dr. Satff Name [[Website](http://www.ce.pdn.ac.lk/academic-staff/), [Email](mailto:lecturer@ce.pdn.ac.lk)]
 
 
 ## Links
