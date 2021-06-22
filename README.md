@@ -1,3 +1,7 @@
+
+[//]: # (Please refer the instructions in below URL for the configurations)
+[//]: # (https://projects.ce.pdn.ac.lk/docs/how-to-add-a-project)
+
 # Project Name
 
 ## Description
